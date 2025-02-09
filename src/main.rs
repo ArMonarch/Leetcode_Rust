@@ -6,6 +6,8 @@ mod add_two_num;
 mod fizz_buzz;
 // LeetCode Problem - 13. [Roman to Interger](https://leetcode.com/problems/roman-to-integer)
 mod roman_to_number;
+// LeetCode Problem - 344. [Reverse String](https://leetcode.com/problems/reverse-string)
+mod reverse_string;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
