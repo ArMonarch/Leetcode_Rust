@@ -1,7 +1,3 @@
-bin = [
-    {name = "two_sum", path = "src/two_sum.rs"}
-]
-
 [package]
 name = "leetcode"
 version = "0.1.0"
