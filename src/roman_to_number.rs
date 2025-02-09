@@ -2,6 +2,7 @@ use std::collections::HashMap;
 
 pub struct Solution;
 
+#[allow(dead_code)]
 impl Solution {
     pub fn roman_to_int(string: String) -> i32 {
         let mut roman_value = HashMap::<char, i32>::new();

@@ -2,6 +2,7 @@ pub struct Solution;
 
 use std::collections::HashMap;
 
+#[allow(dead_code)]
 impl Solution {
     pub fn two_sum_array(nums: Vec<i32>, target: i32) -> Vec<i32> {
         for i in 0..nums.len() {

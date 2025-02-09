@@ -1,5 +1,6 @@
 pub struct Solution;
 
+#[allow(dead_code)]
 impl Solution {
     pub fn fizz_buzz(num: i32) -> Vec<String> {
         let mut result = Vec::<String>::with_capacity(num as usize);
