@@ -14,8 +14,11 @@ mod roman_to_number;
 // LeetCode Problem - 344. [Reverse String](https://leetcode.com/problems/reverse-string)
 mod reverse_string;
 
-// LeetCode  Problem - 26. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+// LeetCode Problem - 26. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 mod remove_duplicates;
+
+//LeetCode Problems - 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+mod find_first_occurance;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
