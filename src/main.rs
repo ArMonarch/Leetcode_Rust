@@ -23,8 +23,11 @@ mod find_first_occurance;
 // LeetCode Problem - 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx)
 mod sqrt;
 
-// LeetCode Problem - 268. [Missing Number](https://leetcode.com/problems/missing-number/)
+// LeetCode Problem - 268. [Missing Number](https://leetcode.com/problems/missing-number)
 mod missing_number;
+
+// LeetCode Problem - 326. [Power of Three](https://leetcode.com/problems/power-of-three)
+mod power_of_three;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
