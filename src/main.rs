@@ -29,6 +29,9 @@ mod missing_number;
 // LeetCode Problem - 326. [Power of Three](https://leetcode.com/problems/power-of-three)
 mod power_of_three;
 
+//LeetCode Problem - 66. [Plus One](https://leetcode.com/problems/plus-one)
+mod plus_one;
+
 fn main() {
     println!("LeetCode Problem Solutions!")
 }
