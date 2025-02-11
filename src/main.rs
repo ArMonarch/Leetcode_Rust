@@ -20,6 +20,9 @@ mod remove_duplicates;
 //LeetCode Problems - 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 mod find_first_occurance;
 
+// LeetCode Problem - 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx)
+mod sqrt;
+
 fn main() {
     println!("LeetCode Problem Solutions!")
 }
