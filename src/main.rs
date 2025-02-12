@@ -17,7 +17,7 @@ mod reverse_string;
 // LeetCode Problem - 26. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 mod remove_duplicates;
 
-//LeetCode Problems - 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
+// LeetCode Problems - 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
 mod find_first_occurance;
 
 // LeetCode Problem - 69. [Sqrt(x)](https://leetcode.com/problems/sqrtx)
@@ -31,6 +31,9 @@ mod power_of_three;
 
 //LeetCode Problem - 66. [Plus One](https://leetcode.com/problems/plus-one)
 mod plus_one;
+
+// LeetCode Problem - 206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+mod reverse_linked_list;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
