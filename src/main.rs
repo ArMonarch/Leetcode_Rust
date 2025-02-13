@@ -41,8 +41,11 @@ mod binary_tree_inorder_traversal;
 // LeetCode Problem - 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
 mod max_depth_binary_tree;
 
-// LeetCode Problem - 118. [Pascal;s Traingle](https://leetcode.com/problems/pascals-triangle)
+// LeetCode Problem - 118. [Pascal's Traingle](https://leetcode.com/problems/pascals-triangle)
 mod pascal_traingle;
+
+// LeetCode Problem - 136. [Singel Number](https://leetcode.com/problems/single-number/)
+mod single_number;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
