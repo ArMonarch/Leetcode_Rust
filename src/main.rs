@@ -35,6 +35,9 @@ mod plus_one;
 // LeetCode Problem - 206. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 mod reverse_linked_list;
 
+//  LeetCode Problem - 94. [Binary Tree Inorder Taversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+mod binary_tree_inorder_traversal;
+
 fn main() {
     println!("LeetCode Problem Solutions!")
 }
