@@ -25,13 +25,13 @@ impl Solution {
                 return 1;
             }
             (Some(left), None) => {
-                return (1 + Self::inner_max_depth(left));
+                return 1 + Self::inner_max_depth(left);
             }
             (None, Some(right)) => {
-                return (1 + Self::inner_max_depth(right));
+                return 1 + Self::inner_max_depth(right);
             }
             (Some(left), Some(right)) => {
-                return (1 + cmp::max(Self::inner_max_depth(left), Self::inner_max_depth(right)));
+                return 1 + cmp::max(Self::inner_max_depth(left), Self::inner_max_depth(right));
             }
         }
     }
