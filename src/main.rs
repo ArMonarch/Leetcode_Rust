@@ -38,6 +38,8 @@ mod reverse_linked_list;
 //  LeetCode Problem - 94. [Binary Tree Inorder Taversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 mod binary_tree_inorder_traversal;
 
+// LeetCode Problem 104. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)
+
 fn main() {
     println!("LeetCode Problem Solutions!")
 }
