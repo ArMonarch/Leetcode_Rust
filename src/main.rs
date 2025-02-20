@@ -44,8 +44,11 @@ mod max_depth_binary_tree;
 // LeetCode Problem - 118. [Pascal's Traingle](https://leetcode.com/problems/pascals-triangle)
 mod pascal_traingle;
 
-// LeetCode Problem - 136. [Singel Number](https://leetcode.com/problems/single-number/)
+// LeetCode Problem - 136. [Singel Number](https://leetcode.com/problems/single-number)
 mod single_number;
+
+// LeetCode Problem - 191. [Nuumber of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
+mod number_of_1bits;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
