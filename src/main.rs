@@ -50,8 +50,12 @@ mod single_number;
 // LeetCode Problem - 191. [Nuumber of 1 Bits](https://leetcode.com/problems/number-of-1-bits)
 mod number_of_1bits;
 
-// LeetCode Problem - 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+// NOTE: Try to Implement string sorting
+// LeetCode Problem - 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description)
 mod longest_common_prefix;
+
+// LeetCode Problem - 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
+mod valid_parentheses;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
