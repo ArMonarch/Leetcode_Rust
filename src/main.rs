@@ -57,6 +57,10 @@ mod longest_common_prefix;
 // LeetCode Problem - 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
 mod valid_parentheses;
 
+// TODO: mem::swap() method, that takes O(1) space complexity & O(N) time complexity
+//LeetCode Problem - 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+mod merge_two_sorted;
+
 fn main() {
     println!("LeetCode Problem Solutions!")
 }
