@@ -63,7 +63,7 @@ impl Solution {
             }
         }
     }
-
+    #[allow(unused)]
     pub fn method_02(
         list_1: Option<Box<ListNode>>,
         list_2: Option<Box<ListNode>>,

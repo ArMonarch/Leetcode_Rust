@@ -51,7 +51,7 @@ mod single_number;
 mod number_of_1bits;
 
 // NOTE: Try to Implement string sorting
-// LeetCode Problem - 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description)
+// LeetCode Problem - 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
 mod longest_common_prefix;
 
 // LeetCode Problem - 20. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses)
@@ -60,6 +60,9 @@ mod valid_parentheses;
 // TODO: mem::swap() method, that takes O(1) space complexity & O(N) time complexity
 //LeetCode Problem - 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 mod merge_two_sorted;
+
+// LeetCode Problem - 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+mod climbing_stairs;
 
 fn main() {
     println!("LeetCode Problem Solutions!")
