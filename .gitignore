@@ -1,5 +1,8 @@
 /target
 
+# fpr vscode
+.vscode
+
 # for python
 __pychace__/
 venv/

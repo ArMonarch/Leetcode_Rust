@@ -64,6 +64,9 @@ mod merge_two_sorted;
 // LeetCode Problem - 70. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 mod climbing_stairs;
 
+// LeetCode Problem - 88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
+mod merge_sorted_array;
+
 fn main() {
-    println!("LeetCode Problem Solutions!")
+    println!("LeetCode Problem Solutions!");
 }
