@@ -67,6 +67,9 @@ mod climbing_stairs;
 // LeetCode Problem - 88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 mod merge_sorted_array;
 
+// LeetCode Problem - 101. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree)
+mod symmetric_tree;
+
 fn main() {
     println!("LeetCode Problem Solutions!");
 }
