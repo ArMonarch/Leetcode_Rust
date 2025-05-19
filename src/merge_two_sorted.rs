@@ -63,6 +63,7 @@ impl Solution {
             }
         }
     }
+
     #[allow(unused)]
     pub fn method_02(
         list_1: Option<Box<ListNode>>,
@@ -70,6 +71,6 @@ impl Solution {
     ) -> Option<Box<ListNode>> {
         let head = Box::new(ListNode::new(0));
 
-        return head.next;
+        return None;
     }
 }
