@@ -59,6 +59,9 @@ mod symmetric_tree;
 // LeetCode Problem - 88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 mod merge_sorted_array;
 
+// LeetCode Problem - 27. [Remove Element](https://leetcode.com/problems/remove-element)
+mod remove_element;
+
 // LeetCode Problem - 26. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 mod remove_duplicates;
 
