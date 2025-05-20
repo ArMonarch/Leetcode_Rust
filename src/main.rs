@@ -62,6 +62,9 @@ mod merge_sorted_array;
 // LeetCode Problem - 27. [Remove Element](https://leetcode.com/problems/remove-element)
 mod remove_element;
 
+// LeetCode Problem - 169. [Majority Element](https://leetcode.com/problems/majority-element)
+mod majority_element;
+
 // LeetCode Problem - 26. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 mod remove_duplicates;
 
