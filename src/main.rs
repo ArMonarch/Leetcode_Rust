@@ -1,7 +1,7 @@
 // LeetCode Problem 1. [Two Sum](https://leetcode.com/problems/two-sum)
 mod two_sum;
 
-//TODO: LeetCode Problem - 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
+// TODO: LeetCode Problem - 2. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 mod add_two_num;
 
 // LeetCode Problem - 412. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz)
@@ -74,8 +74,11 @@ mod best_buy_sell_stock;
 // LeetCode Problem - 13. [Roman to Interger](https://leetcode.com/problems/roman-to-integer)
 mod roman_to_number;
 
+// LeetCode Problem - 121. [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
+mod length_of_last_word;
+
 // LeetCode Problem - 14. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
-// Try to Implement string sorting
+// TODO: Try to Implement string sorting
 mod longest_common_prefix;
 
 // LeetCode Problems - 28. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string)
