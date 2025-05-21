@@ -62,11 +62,14 @@ mod merge_sorted_array;
 // LeetCode Problem - 27. [Remove Element](https://leetcode.com/problems/remove-element)
 mod remove_element;
 
+// LeetCode Problem - 26. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
+mod remove_duplicates;
+
 // LeetCode Problem - 169. [Majority Element](https://leetcode.com/problems/majority-element)
 mod majority_element;
 
-// LeetCode Problem - 26. [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
-mod remove_duplicates;
+// LeetCode Problem - 121. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+mod best_buy_sell_stock;
 
 // LeetCode Problem - 13. [Roman to Interger](https://leetcode.com/problems/roman-to-integer)
 mod roman_to_number;
