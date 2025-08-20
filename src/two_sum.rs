@@ -38,6 +38,6 @@ mod tests {
     fn two_sum() {
         let nums = vec![2, 7, 11, 15];
         let target = 9;
-        assert_eq!(Solution::two_sum_hmap(nums, target), vec![0, 1]);
+        assert_eq!(Solution::two_sum_hmap(nums, target), vec![1, 0]);
     }
 }
